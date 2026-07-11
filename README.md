@@ -22,6 +22,7 @@ Ingeniero en desarrollo. 😎
 
 ### 🗄️ Base de Datos
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 ## 📩 ¡Contáctame!
