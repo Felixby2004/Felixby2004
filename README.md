@@ -1,6 +1,6 @@
 # ¡Hola, soy Felix! 🚀
 
-Ingeniero en desarrollo. 😎
+Ingeniero de sistemas en desarrollo. 😎
 
 ## 🛠 Conocimiento en...
 
